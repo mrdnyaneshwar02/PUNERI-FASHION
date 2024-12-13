@@ -1,4 +1,4 @@
-<h1 align = "center">Merlin Fashion🛒</h1>
+<h1 align = "center">Puneri Fashion🛒</h1>
 
 
 <p align="center">Refresh Your Wardrobe!🛍️ 
@@ -17,9 +17,9 @@ Merlin Fashion doesn't include anything related to database, it is just a HTML, 
     And that's how it looks🤩
  </p>
  <p align="center">
- <img src="https://user-images.githubusercontent.com/47295558/76738138-11372680-6790-11ea-82c6-c27a9c2b7b68.gif">
+ <img src="">
   </p>
  <p align="center">
  Saw all the other pages?🧐 Go check it out now!🥳 
-   https://singh-shivani.github.io/Merlin-Fashion/
+ (https://mrdnyaneshwar02.github.io/PUNERI-FASHION/)
 </p>
